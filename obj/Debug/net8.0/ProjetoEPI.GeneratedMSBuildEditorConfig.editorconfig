@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = true
+build_property.InvariantGlobalization = true
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoEPI
+build_property.RootNamespace = ProjetoEPI
+build_property.ProjectDir = C:\Users\csama\OneDrive\Área de Trabalho\ProjetoEPI - Copia\ProjetoEPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\csama\OneDrive\Área de Trabalho\ProjetoEPI - Copia\ProjetoEPI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Adms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Adms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Adms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Adms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Adms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csama/OneDrive/Área de Trabalho/ProjetoEPI - Copia/ProjetoEPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
